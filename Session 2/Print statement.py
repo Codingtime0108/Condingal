@@ -1,0 +1,5 @@
+print("Hello, World")
+print("My name is Tia")
+print("I love playing badminton")
+print("My birthday is on August 1st")
+print("The result of 20+6 is :", 20+6)
